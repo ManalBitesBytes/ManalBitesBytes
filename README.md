@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+- I'm currently Learning Computer Science @ KSU
+- I'm Working on computer vision graduation project 
+- I love sharing experiences with ML | DL
+- Reach me via: manaqaid7@gmail.com
+  
 <!--
 **ManalBitesBytes/ManalBitesBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
