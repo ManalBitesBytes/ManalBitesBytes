@@ -1,7 +1,7 @@
 ## Hi there 👋
-- I'm currently Learning Computer Science @ KSU
-- I'm Working on computer vision graduation project 
-- I love sharing experiences with ML | DL
+- Computer Science graduate.
+- Worked in computer vision, data engineering, and ML projects.
+- Building up to become the final boss in technology.
 - Reach me via: manaqaid7@gmail.com
   
 <!--
