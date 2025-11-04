@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manalbitesbytes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manalbitesbytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=manalbitesbytes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manalbitesbytes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ0dGJqY2Z6d2Y1Z2NlZ3B0ZzJ0eGZ4b2VtY2NqZzZ1dGZxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/coxQHKASG62HrHuykt/giphy.gif"  />
 
 ###
 
@@ -17,6 +17,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
   <img width="12" />
@@ -34,37 +36,45 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/airflow/airflow-original.svg" height="30" alt="airflow logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="scikit-learn logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <h3>🛠 AI & Data Engineering Stack</h3>
+  <h3>🔥 AI & Data Engineering Stack</h3>
   <p>
-    <b>Computer Vision:</b> YOLO, OpenCV, TensorFlow, PyTorch<br>
-    <b>Data Engineering:</b> ETL Pipelines, Airflow, Elasticsearch, MongoDB<br>
-    <b>MLOps:</b> Docker, Model Deployment, Monitoring<br>
-    <b>Data Processing:</b> Pandas, NumPy, Scikit-learn<br>
-    <b>Backend:</b> Django, PostgreSQL
+    <b>🤖 Computer Vision:</b> YOLO, OpenCV, TensorFlow, PyTorch<br>
+    <b>📊 Data Engineering:</b> ETL Pipelines, Elasticsearch, MongoDB, PostgreSQL<br>
+    <b>⚙️ MLOps:</b> Docker, Model Deployment, API Development<br>
+    <b>🔧 Backend Frameworks:</b> Django, Flask, REST APIs<br>
+    <b>📈 Data Processing:</b> Pandas, NumPy, Data Analysis
   </p>
 </div>
 
 ###
 
 <div align="left">
-  <!-- Replace these with your actual social media links -->
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" alt="python badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/AI/ML-Specialist-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" height="35" alt="ai specialist badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Data_Engineering-Pro-00CED1?style=for-the-badge&logo=apache&logoColor=white" height="35" alt="data engineering badge" />
+</div>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/manal-qatab-109002288/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="mailto:manalqaid7@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://github.com/manalbitesbytes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   </a>
 </div>
 
@@ -72,4 +82,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ManalQatab/ManalQatab/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/manalbitesbytes/manalbitesbytes/output/snake.svg" alt="Snake animation" />
