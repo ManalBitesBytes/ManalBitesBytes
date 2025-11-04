@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/coxQHKASG62HrHuykt/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -82,4 +78,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/manalbitesbytes/manalbitesbytes/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake animation" />
+</div>
