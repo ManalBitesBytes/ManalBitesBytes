@@ -78,6 +78,5 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/graphs/light.svg#gh-light-mode-only" alt="Pacman Light" width="100%">
-  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/graphs/dark.svg#gh-dark-mode-only" alt="Pacman Dark" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manalbitesbytes&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph">
 </div>
