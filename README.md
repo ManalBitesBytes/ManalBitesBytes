@@ -78,9 +78,6 @@
 ###
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manalbitesbytes/manalbitesbytes/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manalbitesbytes/manalbitesbytes/output/snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/manalbitesbytes/manalbitesbytes/output/snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/graphs/light.svg#gh-light-mode-only" alt="Pacman Light" width="100%">
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/graphs/dark.svg#gh-dark-mode-only" alt="Pacman Dark" width="100%">
 </div>
