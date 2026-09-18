@@ -43,15 +43,6 @@
   </p>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" alt="python badge" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/AI/ML-Specialist-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" height="35" alt="ai specialist badge" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Data_Engineering-Pro-00CED1?style=for-the-badge&logo=apache&logoColor=white" height="35" alt="data engineering badge" />
-</div>
 
 ###
 
